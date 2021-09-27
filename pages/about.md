@@ -4,4 +4,16 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi! This is Shweata. I'm an aspiring Science communicator with a love for coding and music! I write for The STEM Times and co-host SciComm Souls, a live chat show featuring Science Communicators. 
+
+## How to embed YouTube Videos?
+Here's how: 
+
+```
+<iframe height="480" width="600"  
+src="https://www.youtube.com/embed/9YffrCViTVk">
+</iframe>
+```
+<iframe height="480" width="600"  
+src="https://www.youtube.com/embed/9YffrCViTVk">
+</iframe>
